@@ -7,6 +7,7 @@ Quantifying the spatial pattern of human settlements is crucial to understanding
 Data:
 - German village points (digitalized from Christaller's orginal central place map)
 - China town points
+- London MSOA points before and after the equal-density projection
 
 Code:
 - `hyperuniform_funcs.py` core functions to calculate density fluctuations, structure factors, and pair-correlation functions.
