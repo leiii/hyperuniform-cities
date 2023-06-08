@@ -12,6 +12,8 @@ Data:
 Code:
 - `hyperuniform_funcs.py` core functions to calculate density fluctuations, structure factors, and pair-correlation functions.
 
+Paper:
+- https://arxiv.org/abs/2306.04149
 
 ***
 Contact: leidong@pku.edu.cn
