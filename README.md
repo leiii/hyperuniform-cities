@@ -14,6 +14,3 @@ Code:
 
 Paper:
 - https://arxiv.org/abs/2306.04149
-
-***
-Contact: leidong@pku.edu.cn
